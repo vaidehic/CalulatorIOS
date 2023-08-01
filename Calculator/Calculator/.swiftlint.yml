@@ -1,3 +1,7 @@
+
+swift_version: 5.0
+
+
 opt_in_rules:
      - indentation_width
      - explicit_self
